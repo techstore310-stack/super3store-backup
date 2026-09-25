@@ -1,12 +1,9 @@
-"""Super3Store V2 Telegram Bot entry point.
-
-Bot implementation will be added incrementally.
-"""
+"""Super3Store Telegram Bot entry point."""
 
 
-def main():
-    print("Super3Store Bot V2 initialized")
+def start_bot():
+    print("Super3Store bot initialized")
 
 
 if __name__ == "__main__":
-    main()
+    start_bot()

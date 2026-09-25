@@ -1,0 +1,16 @@
+{
+  "name": "super3store-v2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Super3Store V2 Bot and Admin platform",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "latest",
+    "express": "latest",
+    "pg": "latest",
+    "telegraf": "latest"
+  }
+}
